@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi , I'm Joshua Stir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+## About me
+- 🏦 I've been a software developer for 20+ years
+- 🏫 I'm always looking to learn new things
+- ☁️ I'm a big fan of all things cloud (AWS/Azure/GCP/etc.)
+- 🎥 I'm a HUGE movie fan
 
 <!--
 **jstir/jstir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
